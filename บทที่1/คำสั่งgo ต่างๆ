@@ -1,0 +1,4 @@
+go version
+go env
+go run
+go help
