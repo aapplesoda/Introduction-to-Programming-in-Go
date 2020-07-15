@@ -1,0 +1,8 @@
+git clone
+git config --list
+git status
+git add --all
+git commit -m "commit by git terminal"
+git push -u origin master
+git remote add origin https://github.com/aapplesoda/Introduction-to-Programming-in-Go.git
+git pull --rebase origin master

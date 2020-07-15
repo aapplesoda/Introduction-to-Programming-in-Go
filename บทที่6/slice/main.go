@@ -35,8 +35,13 @@ func main() {
 
 	slice1 := []int{1, 2, 3}
 	slice2 := append(slice1, 4, 5)
-
 	//append จะรวมsliceเข้าด้วยกัน
+
+	slice1 := []int{1, 2, 3}
+	slice2 := make([]int, 2)
+	copy(slice2, slice1)
+	fmt.Println(slice1, slice2)
+	//copy จะคัดลอกจากslice1 ไปยัง slice2 ตามขนาดความจุ
 
 	fmt.Println(x)
 	fmt.Println(z)
