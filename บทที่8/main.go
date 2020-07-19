@@ -19,6 +19,8 @@ func main() {
 
 //& เก็บตำแหน่งaddress
 //* เก็บค่าในaddress
-//new
+//new จะคล้ายๆหรือเหมือน& stackoverflowบอกมา
 //passby value
 //passby pointer
+//argument ใช้เรียกตอนcall fucntion
+//parameter ใช้เรียกตอนส่งค่าในparameter
