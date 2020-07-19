@@ -1,16 +1,5 @@
 package main
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> c6aec85... Commit by git terminal.
-//เรื่องpointer
-func main() {
-
-}
-<<<<<<< HEAD
-=======
-=======
 import "fmt"
 
 //เรื่องpointer
@@ -33,5 +22,3 @@ func main() {
 //new
 //passby value
 //passby pointer
->>>>>>> bd3fcaa... Commit by git terminal.
->>>>>>> c6aec85... Commit by git terminal.
