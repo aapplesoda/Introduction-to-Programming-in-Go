@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func pointer() { //change to main when run src
+func main() { //change to main when run src
 
 	var a = 5
 	var p = &a // copy by reference
@@ -42,11 +42,11 @@ func pointer() { //change to main when run src
 
 	&p = 3 // error: Cannot assign to &p because this is the address of variable a
 	//delete when run src
-	
+
 }
 
 //& เก็บตำแหน่งaddress
 //* เก็บค่าในaddress
-//new
+//new จะคล้ายๆหรือเหมือน& stackoverflowบอกมา
 //passby value
 //passby pointer
